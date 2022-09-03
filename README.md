@@ -29,7 +29,7 @@
 (4)時間序列分析法
 
 ## 結果呈現在python上
-![image] (https://github.com/noopy523/agricultural_UI/blob/main/figure1.jpg)
+![image](https://github.com/noopy523/agricultural_UI/blob/main/figure1.jpg)
 
 
 
