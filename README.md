@@ -1,7 +1,8 @@
 # <Note> 資料上傳時，不能含有字串型資料，全都要數值型
 帳號:NCHU
 密碼:user
-
+![image](https://github.com/noopy523/agricultural_UI/commit/f13caa62dd148679819edb08917a149cd15ccb70)
+  
 ## 研究子計畫
 
 第一步、請選擇處理缺失資料的方法
