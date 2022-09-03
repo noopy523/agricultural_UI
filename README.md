@@ -1,7 +1,8 @@
 # <Note> 資料上傳時，不能含有字串型資料，全都要數值型
 帳號:NCHU
 密碼:user
-![image](https://github.com/noopy523/agricultural_UI/blob/f13caa62dd148679819edb08917a149cd15ccb70/menu.jpg)
+  
+<img src='https://github.com/noopy523/agricultural_UI/blob/f13caa62dd148679819edb08917a149cd15ccb70/menu.jpg' width='100px'> 
   
 ## 研究子計畫
 
