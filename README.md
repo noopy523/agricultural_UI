@@ -2,7 +2,7 @@
 帳號:NCHU
 密碼:user
   
-<img src='https://github.com/noopy523/agricultural_UI/blob/f13caa62dd148679819edb08917a149cd15ccb70/menu.jpg' width='100px'> 
+<img src='https://github.com/noopy523/agricultural_UI/blob/f13caa62dd148679819edb08917a149cd15ccb70/menu.jpg' width='200px'> 
   
 ## 研究子計畫
 
