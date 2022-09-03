@@ -1,8 +1,8 @@
-## <Note> 資料上傳時，不能含有字串型資料，全都要數值型
+# <Note> 資料上傳時，不能含有字串型資料，全都要數值型
 帳號:NCHU
 密碼:user
 
-# 研究子計畫
+## 研究子計畫
 
 第一步、請選擇處理缺失資料的方法
 (1)完整個體法
@@ -28,8 +28,8 @@
 (4)多變量分析法
 (4)時間序列分析法
 
-# 結果呈現在python上
-
+## 結果呈現在python上
+![image] (https://github.com/noopy523/agricultural_UI/blob/main/figure1.jpg)
 
 
 
