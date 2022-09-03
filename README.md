@@ -2,7 +2,7 @@
 帳號:NCHU
 密碼:user
   
-<img src='https://github.com/noopy523/agricultural_UI/blob/f13caa62dd148679819edb08917a149cd15ccb70/menu.jpg' width='200px'> 
+<img src='https://github.com/noopy523/agricultural_UI/blob/main/result%20in%20jpg/menu.jpg' width='200px'> 
   
 ## 研究子計畫
 
@@ -31,7 +31,7 @@
 (3)時間序列分析法
 
 ## 結果呈現在python上
-![image](https://github.com/noopy523/agricultural_UI/blob/main/figure1.jpg)
+![image](https://github.com/noopy523/agricultural_UI/blob/main/result%20in%20jpg/figure1.jpg)
 
 
 
