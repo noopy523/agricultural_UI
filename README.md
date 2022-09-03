@@ -1,11 +1,10 @@
 # <Note> 資料上傳時，不能含有字串型資料，全都要數值型
-帳號:NCHU
-密碼:user
-  
+帳號:NCHU  
+密碼:user  
+測試檔案如附檔(file/housing.csv)     
 <img src='https://github.com/noopy523/agricultural_UI/blob/main/result%20in%20jpg/menu.jpg' width='200px'> 
 
-##步驟
-測試檔案如附檔(file/housing.csv)  
+
   
 ## 研究子計畫
 
