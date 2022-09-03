@@ -3,6 +3,9 @@
 密碼:user
   
 <img src='https://github.com/noopy523/agricultural_UI/blob/main/result%20in%20jpg/menu.jpg' width='200px'> 
+
+##步驟
+測試檔案如附檔(file/housing.csv)  
   
 ## 研究子計畫
 
